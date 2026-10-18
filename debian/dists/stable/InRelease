@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 18 Oct 2026 05:00:49 +0000
+Description: QTA zero trust network agent
+Label: QTA
+Origin: QTA
+Suite: stable
+MD5Sum:
+ e7465e36acd65c7b5c5407f6ea46f8d3             1086 main/binary-amd64/Packages
+ 38718fcfb49e2846a589b50d72a7f528              612 main/binary-amd64/Packages.gz
+ 43ed89eec9b138c2d1be767a32e60175             1086 main/binary-arm64/Packages
+ e502ece2ab7c65358da36d46b0900b74              611 main/binary-arm64/Packages.gz
+SHA1:
+ 7f27e7eecad53cb5cf20fd4b800c03aa3b189db3             1086 main/binary-amd64/Packages
+ 4d6d36977c6814f778c47d1b7dd5e2e79d14c49e              612 main/binary-amd64/Packages.gz
+ 61641b937b1d9222bd0dec221879b41a29f8423a             1086 main/binary-arm64/Packages
+ 3e43526d3f72f2e81422ad48032a7428b839705c              611 main/binary-arm64/Packages.gz
+SHA256:
+ 2e8edf3324cf8d75314b25c1aca55c25f3085dc2632d8c036b8d9676e839fa97             1086 main/binary-amd64/Packages
+ dc628a3bb20bfc24538fce77251272093a0fd3d58a45a531676fe1944cb2178f              612 main/binary-amd64/Packages.gz
+ 886a425fa7013ed5fe34e9f21906571672e30f4c6806324c98a6711d16f82b4b             1086 main/binary-arm64/Packages
+ 232d2733925d24167e57a6f498e582743c1a6c9c31dffe6b6bbe7abba86dfc89              611 main/binary-arm64/Packages.gz
+SHA512:
+ 602a96e5420faca389b7edff72441545a97255240de147d19ae243a8d0ab42f208b12eddc34e1188c48f7f9313a9dd5b17782cddc53aa4189a27f90df934c571             1086 main/binary-amd64/Packages
+ 911419f6f1793c78615ead94ba1fe50cd13b7b9297b981a8ed1d0f4aeb52b9d24e6ac85f07605a1c231a0d1f542fd08494d508067c52f739f457ed2dfa2338e5              612 main/binary-amd64/Packages.gz
+ 16874e01fad1e43197c3b74dc05b8e4db0468b936453ad2a68d0507eca1038a99a21b7fd2a7c0bfabf72a946242430aa051a49fde69617f6e7104bd0409d727a             1086 main/binary-arm64/Packages
+ 353e527e2a2986d5e7efbaa8ba01d02b00f1d618ef61a512bd92e16e7a7db854c98abad92e5b98ea76d4e2959de27950d42fd7c0cc78c7b05af76ca2192181e1              611 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1V9VjNuCNY+1s8iRUsXeOHxNyVEFAmrUUoEACgkQUsXeOHxN
+yVFIKw//dCQ5SQF2q03GoAQ94Oo/Kq7Q8avNiZ9dBkcQkxRIs8boPlXfXrfOJQit
+u7YyOB48iWNAH3RRHU1dX2pJDZ1kQ1YIwQPkApawBS/9aOsl6rxpsuxuovZ5IMM0
+XgrINiKv+NWnex2f2iLnQcApI6fgd8vgl4yRJ1yIx1YbqUXjkRIxmTWCGSDZHY/6
+3+BWqj7IiuhK0v+TjVmo8geoX/7pS7AbHajnzOMYsOVND2JkWAA4VJCEiw9hunS/
+j0nGAvIUqamNp32xr2ih5JpWyslaqxSSu40Uu0wIgc4B/Y7tUrYNL8h8qj3eziee
+vgOOdIPhFpF8+r6mJ+4mkJvG7vq6K8n3MzTc6ujeaVmWxB7zZ82rl0UxDfsbVJSL
+8UUhSPbiGB15TH0tJOjja4lrxH0Av6yGPjvXatHEJWcYDmk3Vzyoah6orrYGZ4oV
+ZOLIzxXbCD1o80Yftuj3cJSDCmU7rPlDgU8kQ7tDyatt2QuqnJWkLwhEUr0hddUV
+1FUo1lbkNV9lz4Jw6V02cMHxhEfQ23MhxXk8rGDALXyqhOx2sSmjahBuhHpLunDn
+U7KOF0B4Ib7DcFIOay2Zyuf7GgLkqJCeU9XTnA4AMHz4ZTUg1trQJC1NnWePUsRx
+FLGos9vMg4/L4fB373NUR2RRuRC8T8estdKPBRD1BOjoZ2B0Suw=
+=rXnq
+-----END PGP SIGNATURE-----
