@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Thu, 22 Oct 2026 04:53:25 +0000
+Date: Thu, 22 Oct 2026 08:28:26 +0000
 Description: QTA zero trust network agent
 Label: QTA
 Origin: QTA
 Suite: stable
 MD5Sum:
- 35d47544bc2d786daea6fd0a7f95583d             3258 main/binary-amd64/Packages
- 4a399573db01af23725c4d420088647b             1345 main/binary-amd64/Packages.gz
- a74a4304a10ac12fdec5a0f2563e0d0f             3258 main/binary-arm64/Packages
- 8fbc1094fbef48c263589e0b6d4347d3             1343 main/binary-arm64/Packages.gz
+ bd9efb9451abb7d161b34c2c8ba76e3e             3258 main/binary-amd64/Packages
+ d0414d624b74f12909b6a127aa82e705             1338 main/binary-amd64/Packages.gz
+ f90d46724bbc284665a6e7a3a5c9c363             3258 main/binary-arm64/Packages
+ ad02ca7d520cde2e6f9338abf840d8a7             1342 main/binary-arm64/Packages.gz
 SHA1:
- 2197901a4d84b20ca2aaa16940132d66ae29c7f2             3258 main/binary-amd64/Packages
- a353a50f1a7dde2e002de1c86a0c4d6e009c909a             1345 main/binary-amd64/Packages.gz
- b63a6f7e4ef1b66e0fc871fa7fbf4e0060bce369             3258 main/binary-arm64/Packages
- c4eb3ebe4385eec2616886afb5c661276b972ca1             1343 main/binary-arm64/Packages.gz
+ 039728d844da2f712f596328f71db5f3fb003c35             3258 main/binary-amd64/Packages
+ 63a3391688141d96cfc3bddbd8fa835f2edcaa1b             1338 main/binary-amd64/Packages.gz
+ bd94d57cc7ccda10cfcc6e24e69fe374bd1b2326             3258 main/binary-arm64/Packages
+ 22ea45f054e9c8da7828ab7210e7f2e4323c6e31             1342 main/binary-arm64/Packages.gz
 SHA256:
- 3af9c23bc25779aede17cbbeffc5ea51d84a53f3ccaa2906a74967b8dd808ae8             3258 main/binary-amd64/Packages
- e611d073747a2bda82d4d1abf00acf7a402e935c1472f0bf97eb2a6621b02ac7             1345 main/binary-amd64/Packages.gz
- bd61a71ede26404dc48cb0e648843556387ef03b4f9513d7306891158a950e42             3258 main/binary-arm64/Packages
- 8953100fe42569363ad0eb330ea70865ea65bcfab2077057a005d7df1511bdd5             1343 main/binary-arm64/Packages.gz
+ db9ad718b89acc4e10568ed683c894ad1ede46349e02d24698808a0596719279             3258 main/binary-amd64/Packages
+ 202e1b60d6cc02dfdb49cbbff168f69541ea9f4d057d8fc0b58b0580bd7bd763             1338 main/binary-amd64/Packages.gz
+ ff4afce36fb0168e6c32878145e157d2da94c17a0d5c4cbd41baffcedeb03c96             3258 main/binary-arm64/Packages
+ 98f4402365749b5139939119aab165191e95eedae1dd6ac7721f248f0fa2791f             1342 main/binary-arm64/Packages.gz
 SHA512:
- cb5713955dbae76c2d6706a965e434e642427318011c88245fde2a2749f49b275efbbd0dfb3a4d4ad7585b247d441edfb304b61dfbf68a8e4b07ab90d7d9da73             3258 main/binary-amd64/Packages
- 1306ca98aac1f6065e81a528cee977a096fcbb37f3804ca8549d333214cb43fcede56aba21213149033aa27c7c3c8704494ff12ce7619f8213601b3fe420fa65             1345 main/binary-amd64/Packages.gz
- eaa3caecae63d5fdee74e0932a440b052d27552b373b6228bf19e2facdb1928c3e45f92187870dbb3e8a59c41542f335e0d8e95f4d67cdfddba2883d2833d779             3258 main/binary-arm64/Packages
- d966eca05c913de9c2b967d5ce047a2004601dcab9900e2477d05e9d269f8944f3f4ee6c576f2c7b92cbb3e97392e7c452eef37634ec91759ff74653d502197a             1343 main/binary-arm64/Packages.gz
+ 1f571ad28004945f5f15c4c539d526c9d9f7f8a66b8ee20de34ddab9619bcbc2edc22a6ba7f7a4ef14dc9ef90a5dbcb93ef7458c1ab978505c167974e05fa22d             3258 main/binary-amd64/Packages
+ d6e94827e4b7ab8c96f8f147e8303706014d6799de7a7126f004fe246d9a4199c0b177d17430a4987dae8b3c91925467d81c5789e6ec6986d5b5cf9fe40f2959             1338 main/binary-amd64/Packages.gz
+ d0b20d947d7c7c5b1ad73beaff2e2199cabeb1d33cae84428a33e9dc07b068be3498c30bc3149ebf0966a8c082e027fd70ab9508a23389d4a7c95d428da888d4             3258 main/binary-arm64/Packages
+ 6ce53a3c509b40e709c8fbc4290b1262fdc5a279e3ffaf202ae44386bc52312aa36a2b83bbddc9c24dc1912c8eadc64aa59fc6beb40324e65e62177bc73aa574             1342 main/binary-arm64/Packages.gz
